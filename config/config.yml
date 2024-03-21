@@ -1,0 +1,92 @@
+######################################################
+#                   Clarity Solution                 #
+#              (C) Tsubasa of Clarity Team           #
+#              (C) 2024 Clarity Team                 #
+######################################################
+
+
+
+
+######################
+# Section: Application
+######################
+
+token: "MTE5MTgwNjkyNjUxNDgxNDk3Ng.Gkbt0x.ETteZwUNmj1CSDRec8dJGTC_FeRhbnyJwYnSsk" # The token of the bot
+bot_id: "1191806926514814976" # The ID of the bot
+buyer_id : "1072553881134972970" # The ID of the buyer
+devs_id: ["1072553881134972970", '378594821721554947'] # The IDs of the developers
+
+######################
+# Section: Settings
+prefix: "+" # The prefix of the bot
+language: "en" # The language of the bot
+######################
+# Section: Clarity Team
+ownerClari: ["1072553881134972970", '378594821721554947', "564715031321772032" , "784432231371374624", "226017895963033601"]
+respClari: ["171356978310938624",  "1148560858054656020", "1070807183152910366"]
+marketClari: []
+designClari: ["993629285325733971"]
+techClari: ["146056203397627904", "214339832061624320", "233657223190937601", "1127594734219710504", "842369097572024330", "366673880628199426", "1099042785736282205"]
+######################
+
+
+######################
+# Section: Colors
+success: "0x00FF00" # The color of the success embeds
+error: "0xFF0000" # The color of the error embeds
+warning: "0xFFFF00" # The color of the warning embeds
+default_color: "#3535f8" # The color of the default embeds
+######################
+
+######################
+# Section: Clarity
+clarity:
+  discord: "https://discord.gg/clarityfr" # The discord support server of Clarity
+  website: "https://clarity-corp.com" # The website of Clarity
+  github: "https://github.com/Clarity-Corp" # The github of Clarity
+  twitter: "https://twitter.com/ClarityCorp" # The twitter of Clarity
+  tiktok: "https://www.tiktok.com/@claritycorp" # The tiktok of Clarity
+  twitch: "https://www.twitch.tv/claritycorp" # The twitch of Clarity
+  revolt: "https://www.revolt.chat/clarity" # The revolt of Clarity
+  guilded: "https://www.guilded.gg/i/kJWg3mdp" # The guilded of Clarity
+
+  ######################
+  # Section: Embed
+  footer:
+    text: "ζ͜͡Clarity v2" # The text of the footer
+    icon: "https://cdn.discordapp.com/attachments/710710710710710710/710710710710710710/710710710710710710.png" # The icon of the footer
+  ######################
+
+
+  ######################
+  # Section: Database
+  db:
+    host: "localhost" # The host of the database
+    user: "root" # The user of the database
+    password: "" # The password of the database
+    database: "clarity" # The database of the database
+  manager:
+    host: "localhost" # The host of the database
+    user: "root" # The user of the database
+    password: "" # The password of the database
+    database: "manager" # The database of the database
+  prevname:
+    host: "localhost" # The host of the database
+    user: "root" # The user of the database
+    password: "" # The password of the database
+    database: "prevname" # The database of the database
+  mongoDb:
+    link: "mongodb+srv://tsubasa:Bouh091002@cluster0.uz7gfpy.mongodb.net/?retryWrites=true&w=majority"
+  ######################
+
+  ######################
+  # Section: Version
+  version: "2.0.0" # The version of the bot
+  ######################
+
+
+  ######################################################
+  #                   Clarity Solution                 #
+  #              (C) Tsubasa of Clarity Team           #
+  #              (C) 2024 Clarity Team                 #
+  ######################################################
