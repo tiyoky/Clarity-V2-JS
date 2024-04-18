@@ -23,7 +23,7 @@ module.exports = {
         cl: "1160357865610018848"
     },
     lavalink: {
-        host: "game02.codingheberg.com",
+        host: "",
         port: 5006,
         password: "codinghebergbydok",
         secure: false,
