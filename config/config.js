@@ -25,7 +25,7 @@ module.exports = {
     lavalink: {
         host: "",
         port: 5006,
-        password: "codinghebergbydok",
+        password: "",
         secure: false,
         retryAmount: 200,
         retryDelay: 40,
