@@ -11,7 +11,7 @@
 # Section: Application
 ######################
 
-token: "MTE5MTgwNjkyNjUxNDgxNDk3Ng.Gkbt0x.ETteZwUNmj1CSDRec8dJGTC_FeRhbnyJwYnSsk" # The token of the bot
+token: "" # The token of the bot
 bot_id: "1191806926514814976" # The ID of the bot
 buyer_id : "1072553881134972970" # The ID of the buyer
 devs_id: ["1072553881134972970", '378594821721554947'] # The IDs of the developers
