@@ -1,16 +1,16 @@
 module.exports = {
-    token: "",
-    bot_id: "1191806926514814976",
-    buyer: '1072553881134972970',
+    token: "process.env.TOKEN",
+    bot_id: "process.env.ID",
+    buyer: 'process.env.BUYER',
     prefix: "+",
     isPublic: false,
     testVersion: true,
     localhost: true,
     panel: "localhost:30137",
-    support: 'https://discord.gg/clarityfr',
+    support: 'https://discord.gg/HWPvKST22D',
     default_color: "#3535f8",
     footer: {
-        text: "ζ͜͡Clarity"
+        text: "ζ͜͡supra"
     },
    devs: ["1072553881134972970", '378594821721554947', "171356978310938624"],
     ownerClari: ["1072553881134972970", '378594821721554947', "564715031321772032" , "784432231371374624", "226017895963033601"],
